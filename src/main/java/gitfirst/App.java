@@ -6,7 +6,7 @@ public class App {
 		
 		if(true==true)
 		{
-			System.out.print("Change git uhhu");
+			System.out.print("Change git uhhu rinku pinku");
 		}
 		// TODO Auto-generated method stub
  System.out.println("git uhhu");
