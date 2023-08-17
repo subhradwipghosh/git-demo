@@ -9,7 +9,7 @@ public class App {
 			System.out.print("Change git uwu ara ara");
 		}
 		// TODO Auto-generated method stub
- System.out.println("git sayonara");
+ System.out.println("git sayonara in branch");
 	}
 
 }
